@@ -1,5 +1,4 @@
-# gsars
-Global Strategy to Improve Agricultural and Rural Statistics
+# GSARS - Global Strategy to Improve Agricultural and Rural Statistics
 
 This repository contains:  
 
